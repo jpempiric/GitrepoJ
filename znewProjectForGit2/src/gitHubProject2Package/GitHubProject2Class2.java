@@ -9,6 +9,8 @@ public class GitHubProject2Class2 {
 		
 		
 		System.out.println("10th time for gui ");
+		System.out.println("11th time for gui ");
+		System.out.println("12th time gui ");
 	}
 
 }
